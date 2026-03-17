@@ -19,6 +19,7 @@
           nome={funcionario.nome}
           cargo={funcionario.cargo}
           dataAdmissao={funcionario.dataAdmissao}
+          foto={funcionario.foto}
           />
       )}  
        
